@@ -17,6 +17,20 @@
 * [Check species list for inconsistent spelling and typos](https://github.com/dsilvestro/PyRate/blob/master/tutorials/pyrate_tutorial_1.md#check-species-names-for-typos-and-inconsistent-spelling)  
 
 ---
+### Preservation (sampling) rates
+* [**Dedicated preservation tutorial** — models, model testing, interpretation, and reproducible example](https://github.com/dsilvestro/PyRate/blob/master/tutorials/pyrate_tutorial_preservation.md)
+  * [What is the preservation process?](https://github.com/dsilvestro/PyRate/blob/master/tutorials/pyrate_tutorial_preservation.md#what-is-the-preservation-sampling-process)
+  * [Input data requirements for preservation analyses](https://github.com/dsilvestro/PyRate/blob/master/tutorials/pyrate_tutorial_preservation.md#input-data-requirements)
+  * [NHPP, HPP, TPP, and Gamma models](https://github.com/dsilvestro/PyRate/blob/master/tutorials/pyrate_tutorial_preservation.md#preservation-models-in-pyrate)
+  * [Model testing with -PPmodeltest](https://github.com/dsilvestro/PyRate/blob/master/tutorials/pyrate_tutorial_preservation.md#choosing-and-testing-preservation-models)
+  * [Interpreting q and alpha parameters](https://github.com/dsilvestro/PyRate/blob/master/tutorials/pyrate_tutorial_preservation.md#interpreting-preservation-parameters)
+  * [Preservation rates through time](https://github.com/dsilvestro/PyRate/blob/master/tutorials/pyrate_tutorial_preservation.md#preservation-rates-through-time)
+  * [Impact of preservation on speciation/extinction estimates](https://github.com/dsilvestro/PyRate/blob/master/tutorials/pyrate_tutorial_preservation.md#impact-of-preservation-on-speciation-and-extinction-estimates)
+  * [Reproducible Felidae example (dataset + commands + R plots)](https://github.com/dsilvestro/PyRate/blob/master/tutorials/pyrate_tutorial_preservation.md#reproducible-example-felidae-dataset)
+  * [Best practices checklist](https://github.com/dsilvestro/PyRate/blob/master/tutorials/pyrate_tutorial_preservation.md#best-practices-checklist)
+
+---
+
 ### Estimating speciation and extinction rates through time
 * [Setting up a preservation model](https://github.com/dsilvestro/PyRate/blob/master/tutorials/pyrate_tutorial_1.md#defining-the-preservation-model)
 * [Birth-death with rate shifts using RJMCMC (recommended algorithm)](https://github.com/dsilvestro/PyRate/blob/master/tutorials/pyrate_tutorial_3.md#estimate-rate-variation-using-reversible-jump-mcmc)
